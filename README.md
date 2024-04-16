@@ -22,9 +22,9 @@
 
 ## Sprints 
 
-1. [Sprint 1](Sprint%201/README.md)
-2. [Sprint 2](Sprint%202/README.md)
-3. [Sprint 3](Sprint%203/README.md)
+1. [Projeto I](Sprint%201/README.md)
+2. [Projeto II](Sprint%202/README.md)
+3. [Projeto III](Sprint%203/README.md)
 4. ...
 
 ## Desafio
