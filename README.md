@@ -20,14 +20,11 @@
   <a href = "mailto:mfag.rj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Sprints 
+## Desafios 
 
-1. [Projeto I](Sprint%201/README.md)
-2. [Projeto II](Sprint%202/README.md)
-3. [Projeto III](Sprint%203/README.md)
-4. ...
+1. [Projeto I](https://github.com/marciofag/ciencia-de-dados-compass-uol/tree/main/projeto1)
+2. [Projeto II]()
+3. [Projeto III]()
 
-## Desafio
 
-1. [Desafio Final](Desafio/README.md)
 
