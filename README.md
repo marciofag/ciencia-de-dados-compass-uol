@@ -23,7 +23,7 @@
 ## Desafios 
 
 1. [Projeto I](https://github.com/marciofag/ciencia-de-dados-compass-uol/tree/main/projeto1)
-2. [Projeto II]()
+2. [Projeto II](https://github.com/marciofag/ciencia-de-dados-compass-uol/tree/main/projeto2)
 3. [Projeto III]()
 
 
