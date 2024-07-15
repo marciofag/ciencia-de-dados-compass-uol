@@ -1,5 +1,7 @@
 ## **Olá, sou Marcio Fagundes!** 👋
 
+![mfag3](https://github.com/user-attachments/assets/3fa07b35-6841-413e-9b55-ecf5282ea9a0)
+
 🏠 Residente em São João de Meriti - RJ
 
 🎓 Formado em Administração pela Estácio de Sá e cursando o segundo período de Análise e Desenvolvimento de Sistemas no Centro Universitário Unifatecie.
@@ -12,7 +14,6 @@
 
 🎨 Hobbies: Estudar tecnologias (é sério rs), violão, caminhadas, passeios, igreja etc.
 
-![mfag3](https://github.com/marciofag/ciencia-de-dados-compass-uol/assets/145873508/0840ad85-c735-480b-8143-c9f91e0374ca)
 <div> 
   <a href="https://www.linkedin.com/in/marciofag" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/marciofag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,6 +26,5 @@
 1. [Projeto I](https://github.com/marciofag/ciencia-de-dados-compass-uol/blob/main/projeto1/analise_dados_vendas.ipynb)
 2. [Projeto II](https://github.com/marciofag/ciencia-de-dados-compass-uol/blob/main/projeto2/modelo_regressao_prever_preco_carros.ipynb)
 3. [Projeto III](https://github.com/marciofag/ciencia-de-dados-compass-uol/blob/main/projeto3/risco_de_credito_em_emprestimos.ipynb)
-
 
 
