@@ -24,7 +24,7 @@
 
 1. [Projeto I](https://github.com/marciofag/ciencia-de-dados-compass-uol/blob/main/projeto1/analise_dados_vendas.ipynb)
 2. [Projeto II](https://github.com/marciofag/ciencia-de-dados-compass-uol/blob/main/projeto2/modelo_regressao_prever_preco_carros.ipynb)
-3. [Projeto III]()
+3. [Projeto III](https://github.com/marciofag/ciencia-de-dados-compass-uol/blob/main/projeto3/risco_de_credito_em_emprestimos.ipynb)
 
 
 
