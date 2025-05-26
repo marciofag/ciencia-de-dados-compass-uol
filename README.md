@@ -1,18 +1,17 @@
 ## **Olá, sou Marcio Fagundes!** 👋
 
-![mfag3](https://github.com/user-attachments/assets/3fa07b35-6841-413e-9b55-ecf5282ea9a0)
+![LinkedIn capa git](https://github.com/user-attachments/assets/17d87c3d-5a79-430b-96b2-dfd72642a8a4)
 
-🏠 Residente em São João de Meriti - RJ
 
-🎓 Formado em Administração pela Estácio de Sá e cursando o segundo período de Análise e Desenvolvimento de Sistemas no Centro Universitário Unifatecie.
+🎓 Formado em Administração, em transição para a área de tecnologia. Concluindo Análise e Desenvolvimento de Sistemas e iniciando Inteligência de Mercado e Análise de Dados. 
 
-♻ Em transição de carreira, venho realizando cursos objetivando alcançar a qualificação necessária para investir em projetos digitais *(ex.: "Almanaque Plus", projeto pessoal com criação e manutenção de site em Wordpress, conteúdo de marketing e tecnologia, divulgação de infoprodutos com tráfego pago e orgânico SEO, e exibição de anúncios Adsense)* e mais recentemente sigo me aprofundando em programação para análise de dados e desenvolvimento de sistemas.
+💻 Possuo conhecimentos em IA, Python com foco em análise de dados e desenvolvimento de sistemas, SQL, Cyber Security, GRC (Governança, Riscos e Compliance) e sou certificado AWS Cloud Practitioner. 
 
-💻 Apaixonado por desafios tecnológicos e sempre pronto para aprender algo novo, estou construindo minha base de conhecimento e explorando o vasto mundo da computação. Desta forma, venho adquirindo habilidades em Python, JavaScript, HTML5, CSS, Git e GitHub, SQL, AWS, entre outras, que me tornam capaz de contribuir e somar em projetos em diferentes setores da tecnologia. Com muita dedicação e empenho, sigo aperfeiçoando minhas habilidades técnicas. 
+📌 Busco minha primeira oportunidade (estágio) no mercado de trabalho na área de TECNOLOGIA, onde posso aplicar minhas habilidades e aprender com novos desafios.
 
-🚀 Comprometido em crescer na área, estou aberto a colaborações, aprendizados e oportunidades de networking. Vamos progredir juntos!
+🚀 Também possuo conhecimento em Marketing Digital (Adsense, SEO, Face ADS, Wordpress), adquirido através de projetos pessoais, o que amplia minha capacidade de atuar em diferentes frentes dentro do ambiente tecnológico. 
 
-🎨 Hobbies: Estudar tecnologias (é sério rs), violão, caminhadas, passeios, igreja etc.
+🌐 Comprometido em crescer na área, estou aberto a colaborações, aprendizados e oportunidades de networking. Conecte-se comigo para discutir projetos, compartilhar conhecimentos ou simplesmente para trocar ideias sobre o fascinante universo da programação. Vamos progredir juntos!
 
 <div> 
   <a href="https://www.linkedin.com/in/marciofag" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
